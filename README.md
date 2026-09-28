@@ -41,7 +41,7 @@ This analysis attempts to answer questions such as:
 
 The dataset contains:
 
-* **8,807 records**
+* **8,809 records but 2 of them are misc**
 * **12 columns**
 
 Each record represents a Movie or TV Show available on Netflix.

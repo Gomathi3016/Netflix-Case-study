@@ -11,7 +11,7 @@ The objective is to understand the composition and evolution of Netflix's conten
 The analysis combines **data cleaning, preprocessing, non-graphical analysis, exploratory data analysis (EDA), data visualization, and business insights** to understand Netflix's content strategy.
 
 
-## 🎯 Business Problem
+## Business Problem
 
 Netflix has a large and diverse content catalogue consisting of Movies and TV Shows from different countries and production industries.
 
@@ -100,8 +100,8 @@ The notebook performs several preprocessing steps.
 
 The following columns were converted to categorical data types:
 
-* `type`
-* `rating`
+* type
+* rating
 
 ### Missing Value Analysis
 
@@ -109,9 +109,9 @@ Missing values were identified in several columns.
 
 The largest number of missing values were found in:
 
-* `director`
-* `country`
-* `cast`
+* director
+* country
+* cast
 
 Missing values in these fields were subsequently represented as: Unknown
 

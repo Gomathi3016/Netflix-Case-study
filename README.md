@@ -239,15 +239,12 @@ The notebook uses several visualization techniques.
 * Movie and TV Show release trends
 
 ### Visualizations Used
-
-```text
 Countplots
 Histograms
 KDE Distribution
 Boxplots
 Categorical Comparisons
 Time-based Comparisons
-```
 
 
 # Key Findings
